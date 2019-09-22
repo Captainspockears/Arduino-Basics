@@ -12,4 +12,4 @@ The Basic Arduino Code covered at the 'Building Systems with Arduino Microcontro
 
 ### NodeMCU
 
-1. [LED Blinking](LED_BLINKING_NODEMCU)
+1. [LED Blinking](NodeMCU/LED_BLINKING_NODEMCU)
