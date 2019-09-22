@@ -12,4 +12,6 @@ The Basic Arduino Code covered at the 'Building Systems with Arduino Microcontro
 
 ### NodeMCU
 
-1. [LED Blinking](NodeMCU/LED_BLINKING_NODEMCU)
+1. [LED Blinking](LED_BLINKING_NODEMCU.ino)
+2. [Smoke Detector](SMOKE_DETECTOR.ino)
+3. [Internet Controlled LED](Wifi_LED_blink.ino)
